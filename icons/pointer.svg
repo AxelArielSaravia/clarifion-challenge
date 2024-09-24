@@ -1,0 +1,16 @@
+<svg
+    class="icon icon-pointer"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 16 16"
+    width="16" height="16"
+    fill="none"
+>
+    <ellipse cx="7.99996" cy="8"
+        rx="7.99996" ry="7.99999"
+        fill="#E3EEFF"
+    />
+    <ellipse cx="8.05925" cy="8.05899"
+        rx="4.26664" ry="4.26666"
+        fill="#2C7EF8"
+    />
+</svg>
